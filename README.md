@@ -16,7 +16,7 @@ Experience with Manufacturing additive and remotely controlled aircraft at Ventu
 
 ## Projetos:
 
-* **Análise de Dados do AirBnb em Toronto - Canadá** https://bit.ly/3xa7apv
+* **Análise de Dados do AirBnb em Toronto - Canadá** https://bit.ly/3xFdjdw
 * **Como Implementar Regressão Linear com Python:** 
 * **Data Science: Investigando o naufrágio do Titanic:** 
 * **Como Tratar Dados Ausentes com Pandas:** 
