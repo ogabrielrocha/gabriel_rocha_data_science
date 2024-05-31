@@ -3,9 +3,9 @@
 </p>
 
 # Gabriel Rocha
-<sub>*Hardware Development Engineer at Aliger Intelligence Of Things</sub>
+<sub>*Hardware and Firmware Engineer at Aliger Intelligence Of Things</sub>
 
-Student of Eletronic Engineering at CEFET-RJ.
+Eletronic Engineer.
 Experience with Manufacturing additive and remotely controlled aircraft at Venturi Aerodesign in the eletrical area, manufacturing PCB for telemetry, and configuration of First Person View (FPV).
 
 **Background in:** Python, C, VHDL, Arduino.
